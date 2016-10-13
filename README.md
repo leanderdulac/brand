@@ -1,2 +1,3 @@
-# svg-brand
-Pagar.me logos in optimized SVG
+# Pagar.me brand
+
+Pagar.me brand assets in optimized SVG.
