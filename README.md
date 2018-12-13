@@ -19,6 +19,6 @@ Our logo, colors an fonts:
   White: #ffffff
   
   ## Fonts
-  Uni Neue font is private, so it has to be requested.
+  Uni Neue font is private, so it has to be [requested to the design team](https://github.com/pagarme/design)
   
   Muli is open source. It's available in this repo and also at: https://fonts.google.com/specimen/Muli
