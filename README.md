@@ -9,9 +9,13 @@ Our logo, colors an fonts:
   
   ## Colors
   Green: #95C93F
+  
   Gradient: #37CC9A + #45BABF
+  
   Gray: #757575
+  
   Black: #000000
+  
   White: #ffffff
   
   ## Fonts
