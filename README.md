@@ -8,15 +8,15 @@ Our logo, colors an fonts:
   Also in text to make it easier to copy:
   
   ## Colors
-  Green: #95C93F
+  Green / Verde / Cor nova da Stone: #95C93F
   
-  Gradient: #37CC9A + #45BABF
+  Gradient / Degrade / Pilot: #37CC9A + #45BABF
   
-  Gray: #757575
+  Gray / Cinza: #757575
   
-  Black: #000000
+  Black / Preto: #000000
   
-  White: #ffffff
+  White / Branco: #ffffff
   
   ## Fonts
   Uni Neue font is private, so it has to be [requested to the design team](https://github.com/pagarme/design)
